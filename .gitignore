@@ -1,0 +1,17 @@
+# downloaded data and model weights
+data/
+*.zip
+*.tif
+*.tfw
+*.gpkg
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+venv/
+
+# os
+.DS_Store
+Thumbs.db

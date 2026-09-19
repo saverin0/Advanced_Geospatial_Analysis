@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+geopandas>=1.0
+shapely>=2.0
+pyogrio
+rasterio
+rasterstats
+contextily
+mapclassify
+jupyterlab
